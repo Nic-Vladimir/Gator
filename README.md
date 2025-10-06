@@ -1,5 +1,13 @@
 # Gator - RSS feed aggregator [^1]
 
+<!--toc:start-->
+- [Gator - RSS feed aggregator [^1]](#gator---rss-feed-aggregator-1)
+  - [Installation](#installation)
+    - [Pre-requisites](#pre-requisites)
+    - [Setup guide](#setup-guide)
+  - [Using Gator](#using-gator)
+<!--toc:end-->
+
 Gator is a CLI utility tool that allows you to subscribe to RSS feeds
 and store new entries in a database for later viewing.
 It supports multiple users, each with their own feed subscriptions.
